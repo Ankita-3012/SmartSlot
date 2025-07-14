@@ -1,0 +1,18 @@
+{
+  "name": "warehouse-proto-cdn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "openai": "^4.5.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "^2.2.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
